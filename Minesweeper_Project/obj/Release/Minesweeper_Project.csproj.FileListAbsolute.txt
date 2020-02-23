@@ -1,0 +1,15 @@
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\bin\Release\Minesweeper_Project.exe.config
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\bin\Release\Minesweeper_Project.exe
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\bin\Release\Minesweeper_Project.pdb
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.csprojAssemblyReference.cache
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\MainWindow.g.cs
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\App.g.cs
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project_MarkupCompile.cache
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project_MarkupCompile.lref
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\MainWindow.baml
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.g.resources
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.Properties.Resources.resources
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.csproj.GenerateResource.cache
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.csproj.CoreCompileInputs.cache
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.exe
+C:\Users\Brainstorm\Desktop\Minesweeper_Project_Tina\Minesweeper_Project\obj\Release\Minesweeper_Project.pdb
